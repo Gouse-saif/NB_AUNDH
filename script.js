@@ -12733,4 +12733,5 @@ var values = [
     "PLU CODE": "13198",
     "UOM": "PC"
   }
-]
+];
+var userList = new List('users', options, values);
