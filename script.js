@@ -1,5 +1,5 @@
 var options = {
-    valueNames: ['ARTICLE', 'ARTICLE DESCRIPTION','PLU CODE','UOM'],
+    valueNames: ['Article', 'Article Description','PLU CODE','UOM'],
     item: '<li><h3 class="PLU"></h3>
         <p class="ARTICLE"></p>
         <p class="ARTICLE DESCRIPTION"></p>
